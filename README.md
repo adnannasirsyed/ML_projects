@@ -99,6 +99,11 @@ Welcome to my GitHub portfolio! Here you’ll find a comprehensive collection of
   Framework for fine-tuning LLMs, applying quantization, pruning, and distillation methods for inference efficiency.  
   *Technologies*: PyTorch, TensorRT, ONNX
 
+- **Network Operations RAG Chatbot**
+  Creation of a RAG-based chatbot in a production pipeline on Azure for the network operations department.
+  *Technologies*: RAG, LangChain, FAISS vector DB, chunking, tokenization, text & vector embeddings,
+  RAG and embedding fine-tuning on network corpus, end-to-end Azure model implementation with drift monitoring and RLHF feedback loop
+
 ---
 
 > _"Turning data into insights, networks into intelligence, and ideas into impact."_  
