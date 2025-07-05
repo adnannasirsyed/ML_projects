@@ -85,7 +85,7 @@ Welcome to my GitHub portfolio! Here you’ll find a comprehensive collection of
   Classification model to predict visa application outcomes leveraging EDA and performance comparison visualizations.  
   *Technologies*: Python, scikit-learn, matplotlib
 
-## Generative AI & NLP Projects
+## Generative AI, Computer Vision & NLP Projects
 
 - **GenAI in Healthcare Research Statement**  
   Polished research statement on agentic AI and GenAI applications in healthcare and academia.  
@@ -102,7 +102,10 @@ Welcome to my GitHub portfolio! Here you’ll find a comprehensive collection of
 - **Network Operations RAG Chatbot**  
   Creation of a RAG-based chatbot in a production pipeline on Azure for the network operations department.  
   *Technologies*: RAG, LangChain, FAISS vector DB, chunking, tokenization, Llama2, text & vector embeddings, Fine-tuning, Drift Monitoring, RLHF feedback loop
-  
+
+- **Safety Helmet Detection System**  
+  Development of a CNN and VGG-16-based image classifier to automate compliance monitoring for worker safety helmets in hazardous environments.
+  *Technologies*: TensorFlow/Keras, OpenCV, VGG-16 (transfer learning), data augmentation, pixel normalization, precision-recall optimization
 
 ---
 
