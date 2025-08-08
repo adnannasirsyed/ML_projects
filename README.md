@@ -85,6 +85,11 @@ Welcome to my GitHub portfolio! Here you’ll find a comprehensive collection of
   Classification model to predict visa application outcomes leveraging EDA and performance comparison visualizations.  
   *Technologies*: Python, scikit-learn, matplotlib
 
+- **SuperKart Sales Forecasting**  
+  Comprehensive sales forecasting model for SuperKart, a retail chain, with EDA, Random Forest and XGBoost modeling, hyperparameter tuning, and deployment via Flask API and Streamlit frontend. Includes actionable insights for inventory and sales strategies.  
+  *Technologies*: Python, scikit-learn, Flask, Streamlit, Docker, Graphviz  
+  *Links*: [Notebook](path_to_notebook), [Backend](https://syedadnannasir-superkart-backend.hf.space//v1/predict), [Frontend](https://syedadnannasir-superkart-frontend.hf.space)
+
 ## Generative AI, Computer Vision & NLP Projects
 
 - **GenAI in Healthcare Research Statement**  
